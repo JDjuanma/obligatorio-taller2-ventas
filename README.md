@@ -29,25 +29,6 @@ bash git_automation.sh --auto
 ## Historial de Actualizaciones Automáticas
 
 *Registro automático de commits del sistema de automatización Git*
-### Update 2025-07-01 10:51:04
-- **Commit:** 0f742ca
-- **Líneas modificadas:** 993
-- **Rama:** master
-
-### Update 2025-07-01 10:51:50
-- **Commit:** bc5224e
-- **Líneas modificadas:** 1
-- **Rama:** master
-
-### Update 2025-07-01 10:53:28
-- **Commit:** 4fb9bbd
-- **Líneas modificadas:** 1
-- **Rama:** master
-
-### Update 2025-07-01 10:58:19
-- **Commit:** 64de343
-- **Líneas modificadas:** 1
-- **Rama:** master
 
 ### Update 2025-07-01 10:59:21
 - **Commit:** ca88796
