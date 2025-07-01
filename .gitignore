@@ -1,0 +1,20 @@
+# Archivos temporales
+*.tmp
+*.log
+*~
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de backup
+*.bak
+*.backup
+
+# Directorios de IDEs
+.vscode/
+.idea/
+
+# Archivos de datos sensibles (opcional)
+# usuarios.txt
+# productos.txt
