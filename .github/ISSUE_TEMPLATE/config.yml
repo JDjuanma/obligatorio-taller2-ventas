@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentación del Proyecto
+    url: https://github.com/JDjuanma/obligatorio-taller2-ventas/blob/master/README.md
+    about: Consulta la documentación antes de reportar un problema
+  - name: Discusiones
+    url: https://github.com/JDjuanma/obligatorio-taller2-ventas/discussions
+    about: Para preguntas generales y discusiones sobre el proyecto

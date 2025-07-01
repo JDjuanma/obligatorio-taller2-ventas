@@ -24,6 +24,15 @@ bash obligatorio2_completo.sh
 bash git_automation.sh --auto
 ```
 
+### Contribuciones y Reportes
+Este proyecto incluye templates de GitHub Issues para facilitar reportes de:
+- **Documentación**: Mejoras en la documentación del proyecto
+- **Enhancements**: Mejoras a funcionalidades existentes  
+- **Feature Requests**: Solicitudes de nuevas funcionalidades
+- **Bug Reports**: Reporte de errores y comportamientos inesperados
+
+Ver `GITHUB_ISSUES_INVESTIGATION.md` para más información sobre buenas prácticas.
+
 ---
 
 ## Historial de Actualizaciones Automáticas
